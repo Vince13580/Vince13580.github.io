@@ -1,13 +1,16 @@
+# **Vincent Thouvenel**
+## **CONSULTANT GOUVERNANCE ET STRATÉGIE DE CYBERSÉCURITÉ**
+
 26 ans
 Permis B et véhiculé
 
-## Contact
+## **Contact**
 
 - Email: <thouvenel.vincent@gmail.com>
 - LinkedIn: <https://www.linkedin.com/in/vincent-thouvenel/>
 - Localisation: Coudoux
 
-## Langues
+## **Langues**
 
 - Français: langue maternelle
 - Allemand: B1
@@ -15,14 +18,14 @@ Permis B et véhiculé
 - Russe: autodidacte, débutant
 - Italien: autodidacte, débutant
 
-## Centres d'intérêt
+## **Centres d'intérêt**
 
 - Cybersécurité
 - Sports mécaniques
 - Participant au 4L Trophy (2023)
 - Musique: guitare
 
-## Expériences professionnelles
+## **Expériences professionnelles**
 
 ### Depuis 2024 — Associate GRC Advisor, Capgemini
 Aix-en-Provence
@@ -65,27 +68,27 @@ Rousset
 - Traitement de fichiers JSON
 - Bootstrap
 
-## Formation et certifications
+## **Formation et certifications**
 
-- DUT Informatique — Aix-en-Provence (2020)
-- Bachelor Informatique — spécialité sécurité informatique — ESGI Aix-en-Provence (2021)
-- Mastère Infotech — Campus Academy Aix-en-Provence (2023)
-- EGERIE Risk Manager v4 — 2024
-- ISO/IEC 27001 Lead Implementer — PECB (2026)
+* DUT Informatique — Aix-en-Provence (2020)
+* Bachelor Informatique — spécialité sécurité informatique — ESGI Aix-en-Provence (2021)
+* Mastère Infotech — Campus Academy Aix-en-Provence (2023)
+* EGERIE Risk Manager v4 — 2024
+* ISO/IEC 27001 Lead Implementer — PECB (2026)
 
-## Compétences
+## **Compétences**
 
-- Politiques de cybersécurité
-- Gestion des risques
-- Traitement des incidents SSI
-- Power BI
-- Certification réseau CCNA 1 v7
-- Linux et utilisation du shell
-- Administration système et réseau
-- Autonomie
-- Sens du service client
-- Résilience
-- Curiosité
-- Sensibilisation cyber
-- Animation de formation
-- Accompagnement de projet
+* Politiques de cybersécurité
+* Gestion des risques
+* Traitement des incidents SSI
+* Power BI
+* Certification réseau CCNA 1 v7
+* Linux et utilisation du shell
+* Administration système et réseau
+* Autonomie
+* Sens du service client
+* Résilience
+* Curiosité
+* Sensibilisation cyber
+* Animation de formation
+* Accompagnement de projet

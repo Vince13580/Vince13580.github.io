@@ -1,6 +1,3 @@
----
-layout: default
----
 # **Vincent Thouvenel**
 ## **CONSULTANT GOUVERNANCE ET STRATÉGIE DE CYBERSÉCURITÉ**
 > "Accompagner les organisations dans la structuration de leur résilience et la maîtrise de leurs risques numériques."

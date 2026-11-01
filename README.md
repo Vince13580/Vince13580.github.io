@@ -68,8 +68,8 @@ Rousset
 ## Formation et certifications
 
 - DUT Informatique — Aix-en-Provence (2020)
-- Bachelor Informatique — ESGI Aix-en-Provence (2021)
-- Mastère Infotech — spécialité sécurité informatique — Campus Academy Aix-en-Provence (2023)
+- Bachelor Informatique — spécialité sécurité informatique — ESGI Aix-en-Provence (2021)
+- Mastère Infotech — Campus Academy Aix-en-Provence (2023)
 - EGERIE Risk Manager v4 — 2024
 - ISO/IEC 27001 Lead Implementer — PECB (2026)
 

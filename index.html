@@ -1,0 +1,285 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Vincent Thouvenel — Consultant Cybersécurité</title>
+  <style>
+    :root {
+      --bg: #0d1117;
+      --card-bg: #161b22;
+      --border: #30363d;
+      --text: #c9d1d9;
+      --heading: #f0f6fc;
+      --accent: #58a6ff;
+      --accent-dim: rgba(88, 166, 255, 0.1);
+      --quote-bg: #1f242d;
+    }
+
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+      background-color: var(--bg);
+      color: var(--text);
+      line-height: 1.6;
+      padding: 40px 20px;
+    }
+
+    .container {
+      max-width: 900px;
+      margin: 0 auto;
+    }
+
+    /* En-tête type "Hero Banner" */
+    header.hero {
+      background: var(--card-bg);
+      border: 1px solid var(--border);
+      border-radius: 12px;
+      padding: 36px 32px;
+      margin-bottom: 24px;
+      box-shadow: 0 4px 20px rgba(0,0,0,0.3);
+    }
+
+    header.hero h1 {
+      font-size: 2.4rem;
+      color: var(--heading);
+      margin-bottom: 6px;
+      letter-spacing: -0.5px;
+    }
+
+    header.hero h2 {
+      font-size: 1.15rem;
+      color: var(--accent);
+      font-weight: 500;
+      text-transform: uppercase;
+      letter-spacing: 0.8px;
+      margin-bottom: 16px;
+    }
+
+    .quote {
+      background: var(--quote-bg);
+      border-left: 3px solid var(--accent);
+      padding: 12px 16px;
+      border-radius: 0 8px 8px 0;
+      font-style: italic;
+      color: #8b949e;
+      margin-bottom: 20px;
+    }
+
+    .contact-grid {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 16px;
+      font-size: 0.95rem;
+      border-top: 1px solid var(--border);
+      padding-top: 16px;
+    }
+
+    .contact-item {
+      display: flex;
+      align-items: center;
+      gap: 6px;
+    }
+
+    .contact-item a {
+      color: var(--accent);
+      text-decoration: none;
+    }
+
+    .contact-item a:hover { text-decoration: underline; }
+
+    /* Layout en cartes */
+    section.card {
+      background: var(--card-bg);
+      border: 1px solid var(--border);
+      border-radius: 12px;
+      padding: 28px 32px;
+      margin-bottom: 24px;
+      box-shadow: 0 4px 12px rgba(0,0,0,0.2);
+    }
+
+    section.card h3.section-title {
+      font-size: 1.3rem;
+      color: var(--heading);
+      border-bottom: 1px solid var(--border);
+      padding-bottom: 10px;
+      margin-bottom: 20px;
+      display: flex;
+      align-items: center;
+      gap: 8px;
+    }
+
+    /* Expériences */
+    .job-item {
+      margin-bottom: 24px;
+    }
+
+    .job-item:last-child { margin-bottom: 0; }
+
+    .job-header {
+      display: flex;
+      justify-content: space-between;
+      align-items: baseline;
+      flex-wrap: wrap;
+      margin-bottom: 4px;
+    }
+
+    .job-title {
+      font-size: 1.1rem;
+      color: var(--accent);
+      font-weight: 600;
+    }
+
+    .job-date {
+      font-size: 0.85rem;
+      color: #8b949e;
+      background: rgba(139, 148, 158, 0.1);
+      padding: 2px 8px;
+      border-radius: 12px;
+    }
+
+    .job-location {
+      font-size: 0.9rem;
+      color: #8b949e;
+      margin-bottom: 8px;
+    }
+
+    ul.custom-list {
+      list-style-type: disc;
+      padding-left: 20px;
+    }
+
+    ul.custom-list li {
+      margin-bottom: 6px;
+    }
+
+    /* Badges pour compétences & formations */
+    .tag-container {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 8px;
+      margin-top: 10px;
+    }
+
+    .tag {
+      background: var(--accent-dim);
+      color: var(--accent);
+      border: 1px solid rgba(88, 166, 255, 0.3);
+      padding: 4px 10px;
+      border-radius: 6px;
+      font-size: 0.85rem;
+      font-weight: 500;
+    }
+
+    @media (max-width: 600px) {
+      body { padding: 16px 12px; }
+      header.hero, section.card { padding: 20px 16px; }
+      header.hero h1 { font-size: 1.8rem; }
+    }
+  </style>
+</head>
+<body>
+
+  <div class="container">
+    
+    <!-- En-tête principal -->
+    <header class="hero">
+      <h1>Vincent Thouvenel</h1>
+      <h2>Consultant Gouvernance & Stratégie de Cybersécurité</h2>
+      <div class="quote">
+        “Accompagner les organisations dans la structuration de leur résilience et la maîtrise de leurs risques numériques.”
+      </div>
+      <div class="contact-grid">
+        <div class="contact-item">📧 <a href="mailto:thouvenel.vincent@gmail.com">thouvenel.vincent@gmail.com</a></div>
+        <div class="contact-item">💼 <a href="https://www.linkedin.com/in/vincent-thouvenel/" target="_blank">LinkedIn</a></div>
+        <div class="contact-item">📍 Coudoux (26 ans — Permis B)</div>
+      </div>
+    </header>
+
+    <!-- Expériences -->
+    <section class="card">
+      <h3 class="section-title">💼 Expériences Professionnelles</h3>
+
+      <div class="job-item">
+        <div class="job-header">
+          <span class="job-title">Associate GRC Advisor — Capgemini</span>
+          <span class="job-date">Depuis 2024</span>
+        </div>
+        <div class="job-location">Aix-en-Provence</div>
+        <ul class="custom-list">
+          <li><strong>Au forfait :</strong> Analyse de risques prestataires (secteur bancaire) & pilotage de 10 analyses de risques d'homologation RGS pour une collectivité.</li>
+          <li><strong>Assistance technique :</strong> Assistance CISO chez Airbus Helicopters (KPI, comités de sécurité, assistance sécurité projets & gouvernance cyber).</li>
+        </ul>
+      </div>
+
+      <hr style="border:0; border-top: 1px dashed var(--border); margin: 20px 0;">
+
+      <div class="job-item">
+        <div class="job-header">
+          <span class="job-title">Assistant Sécurité du SI — BPCE-SI</span>
+          <span class="job-date">2022 — 2023</span>
+        </div>
+        <div class="job-location">Alternance, Aix-en-Provence</div>
+        <ul class="custom-list">
+          <li>Participation à la fusion BPCE SI et convergence cybersécurité IBP/ITCE.</li>
+          <li>Traitement des demandes SSI, incidents et dérogations.</li>
+          <li>Accompagnement projets sécurité (API, Power BI) et rédaction de modes opératoires SSI.</li>
+        </ul>
+      </div>
+
+      <hr style="border:0; border-top: 1px dashed var(--border); margin: 20px 0;">
+
+      <div class="job-item">
+        <div class="job-header">
+          <span class="job-title">Administrateur Systèmes & Réseaux — GecoIT</span>
+          <span class="job-date">2021</span>
+        </div>
+        <div class="job-location">Alternance, Isle-sur-la-Sorgue</div>
+        <ul class="custom-list">
+          <li>Création de distributions Debian Live, gestion WAPT et préparation de postes (Active Directory).</li>
+          <li>Formateur cybersécurité dans le cadre d'une mission client.</li>
+        </ul>
+      </div>
+    </section>
+
+    <!-- Formations & Certifications -->
+    <section class="card">
+      <h3 class="section-title">🎓 Formations & Certifications</h3>
+      <ul class="custom-list">
+        <li><strong>ISO/IEC 27001 Lead Implementer</strong> — PECB (2026)</li>
+        <li><strong>EGERIE Risk Manager v4</strong> (2024)</li>
+        <li><strong>Mastère Infotech</strong> — Campus Academy Aix-en-Provence (2023)</li>
+        <li><strong>Bachelor Informatique (Sécurité)</strong> — ESGI Aix-en-Provence (2021)</li>
+        <li><strong>DUT Informatique</strong> — Aix-en-Provence (2020)</li>
+      </ul>
+    </section>
+
+    <!-- Compétences -->
+    <section class="card">
+      <h3 class="section-title">🛡️ Compétences</h3>
+      <div class="tag-container">
+        <span class="tag">Politiques de Cybersécurité</span>
+        <span class="tag">Gestion des risques (EBIOS RM)</span>
+        <span class="tag">Traitement des incidents SSI</span>
+        <span class="tag">Power BI</span>
+        <span class="tag">Certification CCNA 1 v7</span>
+        <span class="tag">Linux / Shell</span>
+        <span class="tag">Administration Système & Réseau</span>
+        <span class="tag">Sensibilisation & Formation</span>
+      </div>
+    </section>
+
+    <!-- Langues & Intérêts -->
+    <section class="card">
+      <h3 class="section-title">🌍 Langues & Passions</h3>
+      <ul class="custom-list">
+        <li><strong>Langues :</strong> Français (Maternelle), Anglais (C2), Allemand (B1), Russe & Italien (Autodidacte).</li>
+        <li><strong>Passions :</strong> Cybersécurité, Sports mécaniques (Participant au 4L Trophy 2023), Guitare.</li>
+      </ul>
+    </section>
+
+  </div>
+
+</body>
+</html>

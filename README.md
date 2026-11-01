@@ -3,8 +3,8 @@ Permis B et véhiculé
 
 ## Contact
 
-- Email: thouvenel.vincent@gmail.com
-- LinkedIn: https://www.linkedin.com/in/vincent-thouvenel/
+- Email: <thouvenel.vincent@gmail.com>
+- LinkedIn: <https://www.linkedin.com/in/vincent-thouvenel/>
 - Localisation: Coudoux
 
 ## Langues

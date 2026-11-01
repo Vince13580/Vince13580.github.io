@@ -1,14 +1,18 @@
+---
+layout: default
+---
 # **Vincent Thouvenel**
 ## **CONSULTANT GOUVERNANCE ET STRATÉGIE DE CYBERSÉCURITÉ**
+> "Accompagner les organisations dans la structuration de leur résilience et la maîtrise de leurs risques numériques."
 
-26 ans
-Permis B et véhiculé
+---
 
-## **Contact**
+## 📬 Contact & Infos
+* **Email :** [thouvenel.vincent@gmail.com](mailto:thouvenel.vincent@gmail.com)
+* **LinkedIn :** [linkedin.com/in/vincent-thouvenel](https://www.linkedin.com/in/vincent-thouvenel/)
+* **Localisation :** Coudoux (26 ans — Permis B, véhiculé)
 
-- Email: <thouvenel.vincent@gmail.com>
-- LinkedIn: <https://www.linkedin.com/in/vincent-thouvenel/>
-- Localisation: Coudoux
+---
 
 ## **Langues**
 

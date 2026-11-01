@@ -52,8 +52,16 @@ a:hover {
   text-decoration: underline;
 }
 
-/* Sidebar (menu de gauche / profil) */
+header h1,
+header h2 {
+  display: none !important;
+}
+
 header {
-    display: none !important;
+  background: transparent !important;
+  border: none !important;
+  padding: 0 !important;
+  margin: 0 !important;
+  box-shadow: none !important;
 }
 

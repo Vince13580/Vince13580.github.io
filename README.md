@@ -29,6 +29,7 @@ Aix-en-Provence
 
 Mission au forfait :
 - Analyse de risques sur des prestataires pour une société bancaire
+- Pilotage de 10 analyses de risques dans le cadre d'homologation RGS de téléservices pour une collectivité territoriale
 
 Mission en assistance technique :
 - Assistance CISO chez Airbus Helicopters

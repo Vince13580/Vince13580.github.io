@@ -1,18 +1,9 @@
-# CV Vincent Thouvenel
-
-## Profil
-
-Vincent Thouvenel
-
-Consultant gouvernance et stratégie de cybersécurité
-
 26 ans
-Permis B et véhicule
+Permis B et véhiculé
 
 ## Contact
 
 - Email: thouvenel.vincent@gmail.com
-- Téléphone: 0611308828
 - LinkedIn: https://www.linkedin.com/in/vincent-thouvenel/
 - Localisation: Coudoux
 
